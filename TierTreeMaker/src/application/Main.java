@@ -24,7 +24,7 @@ public class Main extends Application {
 			
 			
 			Button btn1 = new Button("tst");
-			Button btn2 = new Button("sadiwjoiijawd");
+			Button btn2 = new Button("sadiwjoiijawd"); 
 			ToolBar toolBar = new ToolBar();
 			toolBar.getItems().add(btn1);
 			toolBar.getItems().add(btn2);
